@@ -1,0 +1,19 @@
+{
+  "name": "bhsgsa",
+  "version": "0.0.1",
+  "description": "site for the bhs gsa 2025",
+  "main": "index.js",
+  "authors": {
+    "name": "ada",
+    "email": "cmdada@proton.me"
+  },
+  "repository": "https://github.com/cmdada/bhsgsa/bhsgsa",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
